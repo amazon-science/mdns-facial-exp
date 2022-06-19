@@ -1,6 +1,7 @@
 # MDNS Facial Expression Perception Dataset
-Humans can perceive multiple expressions in a single face. Such expressions may also be perceived at varying intensities. By coupling annotations from multiple observers, it can be observed that some expressions are also ambiguous. The MDNS (multi-dimensional, nuanced, subjective) annotation dataset provides a new set of multi-dimensional modulated annotations for 1000 face images. The images were sourced from the standard ExpW face image dataset. This novel in-the-wild, ethnically diverse dataset been annotated along 6, 15, and 21 expression dimensions by multiple crowd-sourced annotators. Here, we provide the raw annotator ratings and demonstrate a probabilistic technique that can be used to model human perception. 
+This project is credited to De'Aira Bryant's internship project at Amazon AWS.
 
+Humans can perceive multiple expressions in a single face. Such expressions may also be perceived at varying intensities. By coupling annotations from multiple observers, it can be observed that some expressions are also ambiguous. The MDNS (multi-dimensional, nuanced, subjective) annotation dataset provides a new set of multi-dimensional modulated annotations for 1000 face images. The images were sourced from the standard ExpW face image dataset. This novel in-the-wild, ethnically diverse dataset been annotated along 6, 15, and 21 expression dimensions by multiple crowd-sourced annotators. Here, we provide the raw annotator ratings and demonstrate a probabilistic technique that can be used to model human perception.
 
 ![ExpW aggregated annotation labels vs MDNE perception probability distributions](sample_images_expw_vs_mdne.png)
 
